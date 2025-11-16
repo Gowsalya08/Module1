@@ -12,13 +12,13 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello, welcome to")
-print("           the world of Python")
+a=int(input()) 
+if(a%2)==0: 
+print("EVEN") 
+else: print("ODD")
 ## Output
-<img width="1105" height="276" alt="image" src="https://github.com/user-attachments/assets/98a3ceda-52d9-45c1-a0f7-1d0a5c017ddc" />
+<img width="772" height="197" alt="image" src="https://github.com/user-attachments/assets/65acdd60-550f-4786-a553-c4e71fff727c" />
 
 ## Result
-successfully completed this.........
+ Thus the Python program to check whether the given number is even or odd using
+ if...else statements was successfully completed
